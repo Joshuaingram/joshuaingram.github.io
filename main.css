@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background: #999;
+  front-family: arial;
+}
+
+header {
+  margin: 0;
+  background: #555;
+  padding: 15px 0 0 0
+}
+
+nav ul{
+  margin: 0;
+  display: inline;
+  padding: 0 0 0 15px
+}
+
+nav ul li{
+  background: #222;
+  color: lightblue;
+  display: inline-block;
+  list-style-type: none;
+  padding: 5px 15px
+}
+
+nav ul li a{
+  color: lightblue;
+}
+
+.row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.col {
+  background: #333;
+  color: white;
+  float: left;
+  margin: 1%;
+  width: 31%;
+}
+
+footer {
+  padding: 0 0 0 15px;
+}
