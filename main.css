@@ -1,47 +1,141 @@
 body {
   margin: 0;
-  background: #999;
-  front-family: arial;
+  background: black;
+  front-family: verdana;
+  padding: 0 0 0 0;
+  color: white;
+  opacity: .70;
 }
 
-header {
+.main-wrapper {
   margin: 0;
-  background: #555;
-  padding: 15px 0 0 0
+  padding-bottom: 0;
 }
 
-nav ul{
+.parallax:nth-of-type(1) {
+  background-image: url("sdo_photo.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0 0 55% 0;
+  margin: 0 0 0 0;
+}
+
+.parallax:nth-of-type(2) {
+  background-image: url("self.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0 0 80% 0;
+}
+
+.parallax h1{
+  color: black;
+  opacity: .80;
+  font-family: verdana;
+  text-align: center;
+  padding: 20% 0 20% 0;
+  font-size: 800%;
+}
+
+.parallax nav ul{
   margin: 0;
   display: inline;
-  padding: 0 0 0 15px
+  padding: 15px 0 0 15px;
 }
 
-nav ul li{
-  background: #222;
-  color: lightblue;
+.parallax nav ul li{
+  opacity: .40;
+  font-family: verdana;
   display: inline-block;
   list-style-type: none;
-  padding: 5px 15px
+  font-size: 130%;
+  padding: 15px 15px;
 }
 
-nav ul li a{
-  color: lightblue;
-}
-
-.row:after {
-  clear: both;
-  content: "";
-  display: table;
-}
-
-.col {
-  background: #333;
+.parallax nav a:link{
   color: white;
-  float: left;
-  margin: 1%;
-  width: 31%;
+  text-decoration: none;
+}
+
+.parallax nav a:visited{
+  color: white;
+  text-decoration: none;
+}
+
+.parallax nav a:hover{
+  color: white;
+}
+
+.parallax nav a:active{
+  color: white;
+  opacity: .95;
 }
 
 footer {
-  padding: 0 0 0 15px;
+  text-align: center;
+  padding: 1% 0 1% 0;
+}
+
+/* Blinking Cursor*/
+.blinking-cursor {
+  font-weight: 100;
+  opacity: .80;
+  font-family: verdana;
+  color: black;
+  padding: 0 0 0 0;
+  -webkit-animation: 1.2s blink step-end infinite;
+  -moz-animation: 1.2s blink step-end infinite;
+  -ms-animation: 1.2s blink step-end infinite;
+  -o-animation: 1.2s blink step-end infinite;
+  animation: 1.2s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
 }
