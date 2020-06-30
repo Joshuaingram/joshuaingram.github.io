@@ -1,3 +1,3 @@
 # joshuaingram.github.io
 
-This is my portfolio website.
+This is my website. Work in progress.
