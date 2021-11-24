@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Joshua D Ingram"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Joshua D Ingram"
+description              : &description "Hey there! I'm an honors student at New College of Florida (NCF) studying statistics and applied mathematics. I conduct research in astrostatistics, the cross-discipline of astrophysics and statistics. I'm working on an analysis of solar flares at the Harvard-Smithsonian Center for Astrophysics and am studying chromospheric features of cool, evolved stars at the NASA Goddard Space Flight Center. Besides my academic and research interests, I'm passionate about educational outreach. I'm the co-president of the NCF Astronomy Club, organizing stargazing parties and our "Cosmic Wonders" guest speaker series. I plan on going to graduate school to continue studying statistics, so keep an eye out for some of my work!"
+url                      : https://joshuadingram.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
