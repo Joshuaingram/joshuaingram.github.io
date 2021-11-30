@@ -37,44 +37,6 @@ Research Experience
   * Advisors: Dr. Vinay Kashyap, Lucas Guliano
   * Research Focus: Solar flares
   
-Skills
-======
-* Programming
-  * R
-  * Python
-  * Bash
-  * MATLAB
-  * IDL
-  * LaTeX
-  * Markdown
-  * Maple
-  * HTML
-  * CSS
-* Software
-  * Git/Github
-  * Microsoft 365
-  * Google Workspace
-  * Microsoft Windows
-  * macOS
-* Organization
-  * Public speaking
-  * Team management
-  * Grant writing
-  * Event planning and marketing
-  * Teaching
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Presentations
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
 * August 2020 - Present: Statistics Peer-Tutor
