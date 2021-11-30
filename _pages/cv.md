@@ -9,32 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
+For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Statistics & Applied Mathematics, New College of Florida, Expected May 2022
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* August 2021 - Present: Research Intern
+  * NASA Goddard Space Flight Center
+  * Advisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
+  * Research Focus: Chromospheres of cool, evolved stars
+
+* August 2020 - Present: Research Intern
+  * Center for Astrophysics | Harvard & Smithsonian
+  * Advisor: Dr. Vinay Kashyap
+  * Research Focus: Solar flares
+
+* Summer 2021: Statistics Intern
+  * NASA Goddard Space Flight Center
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: REU Intern
+  * Center for Astrophysics | Harvard & Smithsonian
+  * Advisors: Dr. Vinay Kashyap, Lucas Guliano
+  * Research Focus: Solar flares
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * R
+  * Python
+  * Bash
+  * MATLAB
+  * IDL
+  * LaTeX
+  * Markdown
+  * Maple
+  * HTML
+  * CSS
+* Software
+  * Git/Github
+  * Microsoft 365
+  * Google Workspace
+  * Microsoft Windows
+  * macOS
+* Organization
+  * Public speaking
+  * Team management
+  * Grant writing
+  * Event planning and marketing
+  * Teaching
 
 Publications
 ======
@@ -42,7 +69,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -50,10 +77,32 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* August 2020 - Present: Statistics Peer-Tutor
+  * NCF Quantitative Resource center
+  * Supervisor: Dr. Duff Cooper
+
+* January 2020, 2021, 2022: Teaching Assistant
+  * New College of Florida
+  * Course: Day Trading Independent Study Project
+  * Professor: Dr. Sherry Yu
+
+* Fall 2019: Teaching Assistant
+  * New College of Florida
+  * Course: ECON 2520: Introduction to Accounting and Financial Statement Analysis
+  * Professor: Dr. Sherry Yu
   
-Service and leadership
+Organizations and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-President and Co-Founder of New College Astronomy Club (January 2021 - Present)
+* Student Mentor in Barancik Access Leadership Program (August 2020 - Present)
+* Founder and President of New College Economics Club (January 2019 - Present)
+* Student Mentor in Economics and Finance Mentorship Program (January 2019 - May 2019)
+* Member of New College Association for Computing Machinery (August 2018 - July 2019)
+
+Professional Memberships
+======
+* American Astronomical Society (2021 - Present)
+* California-Harvard Astro-Statistics Collaboration (2020 - Present)
+* American Geophysical Union (2020 - Present)
+* American Statistical Association
+* Association for Computing Machinery (2018-2019)
