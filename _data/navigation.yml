@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/    
+  - title: "talks"
+    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -13,7 +13,7 @@ main:
 #    url: /portfolio/
         
   - title: "Media"
-    url: /media/
+    url: /on-media/
     
   - title: "CV"
     url: /cv/
