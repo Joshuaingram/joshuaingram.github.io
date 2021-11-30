@@ -238,7 +238,7 @@ defaults:
   # _on-media
   - scope:
       path: ""
-      type: on-media
+      type: in-media
     values:
       layout: single
       author_profile: true
