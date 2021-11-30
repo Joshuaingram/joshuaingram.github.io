@@ -23,7 +23,7 @@ Research Experience
   * Research Focus: Chromospheres of cool, evolved stars
 
 * August 2020 - Present: Research Intern
-  * Center for Astrophysics | Harvard & Smithsonian
+  * Harvard & Smithsonian Center for Astrophysics
   * Advisor: Dr. Vinay Kashyap
   * Research Focus: Solar flares
 
@@ -33,7 +33,7 @@ Research Experience
   * Supervisor: Professor Git
 
 * Summer 2020: REU Intern
-  * Center for Astrophysics | Harvard & Smithsonian
+  * Harvard & Smithsonian Center for Astrophysics 
   * Advisors: Dr. Vinay Kashyap, Lucas Guliano
   * Research Focus: Solar flares
   
