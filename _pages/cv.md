@@ -29,8 +29,8 @@ Research Experience
 
 * Summer 2021: Statistics Intern
   * NASA Goddard Space Flight Center
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Advisor: James Jeletic
+  * Focus: Social media data analysis
 
 * Summer 2020: REU Intern
   * Harvard & Smithsonian Center for Astrophysics 
