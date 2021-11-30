@@ -18,6 +18,6 @@ Research Interests
 * Missing Data Problems
 * Statistical Learning
 * Statistics Education
-* Solar flares
-* Stellar atmospheres and exoplanets
-* Observational cosmology
+* Solar Flares
+* Stellar Atmospheres and Exoplanets
+* Observational Cosmology
