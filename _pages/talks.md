@@ -28,3 +28,8 @@ Talks
 ------
 
 1. *The Bayesian Approach to Modeling the World*, New College of Florida Mathematics Seminar, 2021
+
+Workshops
+------
+
+1. *A Crash Course in R for Statistics*, New College of Florida Quantitative Resource Center, 2022
