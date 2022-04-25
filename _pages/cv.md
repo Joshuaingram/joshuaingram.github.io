@@ -13,7 +13,7 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 
 Education
 ======
-* B.A. in Statistics & Applied Mathematics, New College of Florida, Expected May 2022
+* B.A. in Statistics & Applied Mathematics, New College of Florida, GPA: 4.0/4.0, Expected May 2022
 
 Research Experience
 ======
@@ -22,7 +22,7 @@ Research Experience
   * Advisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
   * Research Focus: Chromospheres of cool, evolved stars
 
-* August 2020 - Present: Research Intern
+* August 2020 - February 2022: Research Intern
   * Harvard & Smithsonian Center for Astrophysics
   * Advisor: Dr. Vinay Kashyap
   * Research Focus: Solar flares
@@ -40,7 +40,12 @@ Research Experience
 Teaching
 ======
 * August 2020 - Present: Statistics Peer-Tutor
-  * NCF Quantitative Resource center
+  * NCF Quantitative Resource Center
+  * Supervisor: Dr. Duff Cooper
+
+* January 2022: Workshop Instructor
+  * NCF Quantitative Resource Center
+  * Workshop: A Crash Course in R for Statistics
   * Supervisor: Dr. Duff Cooper
 
 * January 2020, 2021, 2022: Teaching Assistant
