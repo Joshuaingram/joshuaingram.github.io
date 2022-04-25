@@ -8,7 +8,7 @@ author_profile: true
 Research Presentations
 ------
 
-1. *The Chromospheric Structure of the K-giant Star $\beta$ Ceti*, 239th Meeting of the American Astronomical Society, 2022, [TBD](TBD). [Poster Presentation]
+1. *The Chromospheric Structure of the K-giant Star $\beta$ Ceti*, UV Science at Goddard Symposium, 2022, [TBD](TBD). [Poster Presentation]
 
 2. *A Self-Consistent Approach to Estimating Solar Flare Power-Laws within Proper Bounds*, American Geophysical Union Fall Meeting, 2021, [TBD](TBD). [Poster Presentation]
 
@@ -27,7 +27,8 @@ Research Presentations
 Talks
 ------
 
-1. *The Bayesian Approach to Modeling the World*, New College of Florida Mathematics Seminar, 2021
+1. *Building Your Confidene in the Sampling Distribution*, New College of Florida Mathematics Seminar, 2022
+2. *The Bayesian Approach to Modeling the World*, New College of Florida Mathematics Seminar, 2021
 
 Workshops
 ------
