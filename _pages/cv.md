@@ -13,7 +13,8 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 
 Education
 ======
-* B.A. in Statistics & Applied Mathematics, New College of Florida, GPA: 4.0/4.0, Expected May 2022
+* M.S. in Applied Data Science, New College of Florida, GPA: 4.0/4.0, Expected May 2024
+* B.A. in Statistics & Applied Mathematics, New College of Florida, GPA: 4.0/4.0, May 2022
 
 Research Experience
 ======
@@ -39,7 +40,7 @@ Research Experience
   
 Teaching
 ======
-* August 2020 - Present: Statistics Peer-Tutor
+* August 2020 - May 2022: Statistics Peer-Tutor
   * NCF Quantitative Resource Center
   * Supervisor: Dr. Duff Cooper
 
@@ -60,9 +61,9 @@ Teaching
   
 Organizations and Leadership
 ======
-* Co-President and Co-Founder of New College Astronomy Club (January 2021 - Present)
-* Student Mentor in Barancik Access Leadership Program (August 2020 - Present)
-* Founder and President of New College Economics Club (January 2019 - Present)
+* Co-President and Co-Founder of New College Astronomy Club (January 2021 - May 2022)
+* Student Mentor in Barancik Access Leadership Program (August 2020 - May 2022)
+* Founder and President of New College Economics Club (January 2019 - May 2021)
 * Student Mentor in Economics and Finance Mentorship Program (January 2019 - May 2019)
 * Member of New College Association for Computing Machinery (August 2018 - July 2019)
 
@@ -71,5 +72,5 @@ Professional Memberships
 * American Astronomical Society (2021 - Present)
 * California-Harvard Astro-Statistics Collaboration (2020 - Present)
 * American Geophysical Union (2020 - Present)
-* American Statistical Association
+* American Statistical Association (2020 - Present)
 * Association for Computing Machinery (2018-2019)
