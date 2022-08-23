@@ -18,7 +18,7 @@ Submitted
 Accepted
 ------
 
-1. Xie, X., Reeves, K., Shen, C., **Ingram, J.**; *Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares*, The Astrophysical Journal, accepted. [TBD](TBD)
 
 Refereed Journal Publications 
 ------
+1. Xie, X., Reeves, K., Shen, C., **Ingram, J.**; *Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares*, The Astrophysical Journal, published. [Link](https://iopscience.iop.org/article/10.3847/1538-4357/ac695d)
