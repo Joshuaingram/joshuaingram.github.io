@@ -13,12 +13,16 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 
 Education
 ======
-* M.S. in Applied Data Science, New College of Florida, GPA: 4.0/4.0, Expected May 2024
+* M.S. in Applied Data Science, New College of Florida, GPA: TBD, Expected May 2024
 * B.A. in Statistics & Applied Mathematics, New College of Florida, GPA: 4.0/4.0, May 2022
 
-Research Experience
+Experience
 ======
-* August 2021 - Present: Research Intern
+* July 2022 - Present: IT Specialist (Statistician)
+  *  Harvard & Smithsonian Center for Astrophysics
+  * Supervisor: Dr. Vinay Kashyap
+
+* August 2021 - July 2022: Research Intern
   * NASA Goddard Space Flight Center
   * Advisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
   * Research Focus: Chromospheres of cool, evolved stars
