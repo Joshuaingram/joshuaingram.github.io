@@ -16,8 +16,4 @@ Research Interests
 * Astrostatistics
 * Bayesian Data Analysis
 * Missing Data Problems
-* Statistical Learning Methods
-* Statistical Learning
 * Statistics Education
-* Solar Flares
-* Stellar Atmospheres and Exoplanets
