@@ -5,8 +5,6 @@ permalink: /in-media/
 author_profile: true
 ---
 
-{% include base_path %}
-
 
 Outreach Efforts
 ======
