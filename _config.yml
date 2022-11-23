@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Joshua D Ingram"
   avatar           : "ingram_photo.jpeg"
-  bio              : "Graduate student at New College of Florida studying data science. Researcher at the Center for Astrophysics. I like to call myself a data-driven space cowboy."
+  bio              : "Graduate student at New College of Florida studying data science. Researcher at the Center for Astrophysics."
   location         : "Sarasota, FL"
-  employer         : 
+  employer         : "Center for Astrophysics | Harvard & Smithsonian"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JlDVEC4AAAAJ&hl=en"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "joshdingram"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
