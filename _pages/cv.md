@@ -13,40 +13,51 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 
 Education
 ======
-* M.S. in Applied Data Science, New College of Florida, GPA: TBD, Expected May 2024
-* B.A. in Statistics & Applied Mathematics, New College of Florida, GPA: 4.0/4.0, May 2022
+* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: TBD, Expected August 2023
+* B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, May 2022
 
 Experience
 ======
 * July 2022 - Present: IT Specialist (Statistician)
   *  Harvard & Smithsonian Center for Astrophysics
   * Supervisor: Dr. Vinay Kashyap
+  * Research Focus: Solar Flares
 
 * August 2021 - July 2022: Research Intern
   * NASA Goddard Space Flight Center
-  * Advisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
+  * Supervisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
   * Research Focus: Chromospheres of cool, evolved stars
 
 * August 2020 - February 2022: Research Intern
   * Harvard & Smithsonian Center for Astrophysics
-  * Advisor: Dr. Vinay Kashyap
+  * Supervisor: Dr. Vinay Kashyap
   * Research Focus: Solar flares
 
 * Summer 2021: Statistics Intern
   * NASA Goddard Space Flight Center
-  * Advisor: James Jeletic
+  * Supervisor: James Jeletic
   * Focus: Social media data analysis
 
 * Summer 2020: REU Intern
   * Harvard & Smithsonian Center for Astrophysics 
-  * Advisors: Dr. Vinay Kashyap, Lucas Guliano
+  * Supervisors: Dr. Vinay Kashyap, Lucas Guliano
   * Research Focus: Solar flares
   
 Teaching
 ======
-* August 2020 - May 2022: Statistics Peer-Tutor
+* August 2020 - Present: Statistics Peer-Tutor
   * NCF Quantitative Resource Center
-  * Supervisor: Dr. Duff Cooper
+  * Supervisor: Travis Lee
+
+* Fall 2022: Teaching Assistant
+  * New College of Florida
+  * Course: IDC 6200: Advanced Applied Statistics
+  * Professor: Dr. Bernhard Klingenberg
+
+* Fall 2022: Teaching Assistant
+  * New College of Florida
+  * Course: ESTAN 2800: Dealing with Data II
+  * Professor: Dr. Bernhard Klingenberg
 
 * January 2022: Workshop Instructor
   * NCF Quantitative Resource Center
