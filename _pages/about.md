@@ -13,7 +13,7 @@ Howdy! I'm a graduate student in the New College of Florida (NCF) Master's in Ap
 Updates
 ======
 
-* Fall 2022 - I've started to prepare my second round of applications for statistis PhD programs.
+* Fall 2022 - I've started to prepare my second round of applications for statistics PhD programs.
 
 Research Interests
 ======
