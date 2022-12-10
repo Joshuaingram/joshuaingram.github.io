@@ -13,7 +13,8 @@ Howdy! I'm a graduate student in the New College of Florida (NCF) Master's in Ap
 Updates
 ======
 
-* Fall 2022 - I've started to prepare my second round of applications for statistics PhD programs.
+* December 2022 - I have been selected as a recipient of the Quad Fellowship by Schmidt Futures. See The White House press release [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/).
+* Fall 2022 - I've started to prepare my applications for statistics PhD programs.
 
 Research Interests
 ======
