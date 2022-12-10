@@ -29,11 +29,12 @@ Conference Presentations
 Talks
 ------
 
-1. *Exploring Undergraduate Research Opportunities in STEM*, New College First Time in College Group Program, 2022
-2. *Astrostatistics: A Case for Better Statistical Literacy*, Center for Astrophysics NSF REU Programs, 2022
-3. *Life of a Scientist*, Girls Inc. EUREKA Program and UNIDOS Now Summer Program, 2022
-4. *Building Your Confidene in the Sampling Distribution*, New College of Florida Mathematics Seminar, 2022
-5. *The Bayesian Approach to Modeling the World*, New College of Florida Mathematics Seminar, 2021
+1. *Securing and Maximizing Internships*, New College Data Science Seminar, 2022
+2. *Exploring Undergraduate Research Opportunities in STEM*, New College First Time in College Group Program, 2022
+3. *Astrostatistics: A Case for Better Statistical Literacy*, Center for Astrophysics NSF REU Programs, 2022
+4. *Life of a Scientist*, Girls Inc. EUREKA Program and UNIDOS Now Summer Program, 2022
+5. *Building Your Confidene in the Sampling Distribution*, New College of Florida Mathematics Seminar, 2022
+6. *The Bayesian Approach to Modeling the World*, New College of Florida Mathematics Seminar, 2021
 
 Workshops
 ------
