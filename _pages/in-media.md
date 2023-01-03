@@ -18,19 +18,22 @@ Outreach Efforts
 Media Coverage
 ======
 
-1. *Statement by National Security Advisor Jake Sullivan Congratulating Inaugural Quad Fellows*, 2022, [The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/)
+1. *New College Grad Student Earns Prestigious Quad Fellowship*, 2023, [AP News]([https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/](https://apnews.com/article/education-sarasota-australia-india-japan-38d812b273f5e67e9fd5bfc8b83a5819))
 
-2. *Barancik Scholarship Helps Local Students Thrive at New College of Florida*, 2022, [New College News](https://www.ncf.edu/news/barancik-scholarship-helps-local-students-thrive-at-new-college-of-florida/)
+2. *New College Grad Student Earns Prestigious International Quad Fellowship*, 2022, [New College News]([https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/](https://www.ncf.edu/news/new-college-grad-student-earns-prestigious-national-quad-fellowship/))
 
-3. *Spotlight on the Astronomy Club, New College's Favorite Stargazers*, 2021, [The Catalyst](https://ncfcatalyst.com/spotlight-on-the-astronomy-club-new-colleges-favorite-stargazers/)
+3. *Statement by National Security Advisor Jake Sullivan Congratulating Inaugural Quad Fellows*, 2022, [The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/)
 
-4. *New College Astronomy Club Draws Stargazers to the Bayfront*, 2021, [New College News](https://www.ncf.edu/news/news/new-college-astronomy-club-draws-stargazers-to-the-bayfront/)
+4. *Barancik Scholarship Helps Local Students Thrive at New College of Florida*, 2022, [New College News](https://www.ncf.edu/news/barancik-scholarship-helps-local-students-thrive-at-new-college-of-florida/)
 
-5. *NCF scholar Joshua Ingram aims for the stars*, 2021, [New College News](https://www.ncf.edu/news/news/ncf-scholar-joshua-ingram-aims-for-the-stars/)
+5. *Spotlight on the Astronomy Club, New College's Favorite Stargazers*, 2021, [The Catalyst](https://ncfcatalyst.com/spotlight-on-the-astronomy-club-new-colleges-favorite-stargazers/)
 
-6. *What It Means To Be A Novo*, 2021, [Making a Better New Podcast](https://newcollegeofflorida.podbean.com/e/what-it-means-to-be-a-novo/)
+6. *New College Astronomy Club Draws Stargazers to the Bayfront*, 2021, [New College News](https://www.ncf.edu/news/news/new-college-astronomy-club-draws-stargazers-to-the-bayfront/)
 
-7. *Student Research Opportunities*, 2020, [New College News](https://www.youtube.com/watch?v=tr-oB4blNTk&t=1s)
+7. *NCF scholar Joshua Ingram aims for the stars*, 2021, [New College News](https://www.ncf.edu/news/news/ncf-scholar-joshua-ingram-aims-for-the-stars/)
+
+8. *What It Means To Be A Novo*, 2021, [Making a Better New Podcast](https://newcollegeofflorida.podbean.com/e/what-it-means-to-be-a-novo/)
+
+9. *Student Research Opportunities*, 2020, [New College News](https://www.youtube.com/watch?v=tr-oB4blNTk&t=1s)
  
-8. *On being a student from Sarasota*, 2019, [The Catalyst](https://ncfcatalyst.com/on-being-a-student-from-sarasota/)
-
+10. *On being a student from Sarasota*, 2019, [The Catalyst](https://ncfcatalyst.com/on-being-a-student-from-sarasota/)
