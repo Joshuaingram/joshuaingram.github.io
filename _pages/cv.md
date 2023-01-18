@@ -13,7 +13,7 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 
 Education
 ======
-* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: TBD, Expected August 2023
+* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.9, Expected August 2023
 * B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, May 2022
 
 Experience
