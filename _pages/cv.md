@@ -13,15 +13,16 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 
 Education
 ======
-* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.9/4.0, Expected August 2023
-* B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, May 2022
+* Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, August 2023 - Present
+* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.9/4.0, August 2022 - August 2023
+* B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, August 2018 - May 2022
 
 Experience
 ======
 * July 2022 - Present: IT Specialist (Statistician)
   *  Harvard & Smithsonian Center for Astrophysics
   * Supervisor: Dr. Vinay Kashyap
-  * Research Focus: Solar Flares
+  * Research Focus: Solar Flares, X-ray source matching
 
 * August 2021 - July 2022: Research Intern
   * NASA Goddard Space Flight Center
@@ -45,7 +46,7 @@ Experience
   
 Teaching
 ======
-* August 2020 - Present: Statistics Peer-Tutor
+* August 2020 - May 2023: Statistics Peer-Tutor
   * NCF Quantitative Resource Center
   * Supervisor: Travis Lee
 
@@ -76,6 +77,7 @@ Teaching
   
 Organizations and Leadership
 ======
+* Graduate Student Representative on New College Student Government (September 2022 - August 2023)
 * Co-President and Co-Founder of New College Astronomy Club (January 2021 - May 2022)
 * Student Mentor in Barancik Access Leadership Program (August 2020 - May 2022)
 * Founder and President of New College Economics Club (January 2019 - May 2021)
