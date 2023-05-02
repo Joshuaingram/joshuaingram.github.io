@@ -18,9 +18,9 @@ Outreach Efforts
 Media Coverage
 ======
 
-1. *New College Grad Student Earns Prestigious Quad Fellowship*, 2023, [AP News]([https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/](https://apnews.com/article/education-sarasota-australia-india-japan-38d812b273f5e67e9fd5bfc8b83a5819)
+1. *New College Grad Student Earns Prestigious Quad Fellowship*, 2023, [AP News](https://apnews.com/article/education-sarasota-australia-india-japan-38d812b273f5e67e9fd5bfc8b83a5819)
 
-2. *New College Grad Student Earns Prestigious International Quad Fellowship*, 2022, [New College News]([https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/](https://www.ncf.edu/news/new-college-grad-student-earns-prestigious-national-quad-fellowship/)
+2. *New College Grad Student Earns Prestigious International Quad Fellowship*, 2022, [New College News](https://www.ncf.edu/news/new-college-grad-student-earns-prestigious-national-quad-fellowship/)
 
 3. *Statement by National Security Advisor Jake Sullivan Congratulating Inaugural Quad Fellows*, 2022, [The White House](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/)
 
