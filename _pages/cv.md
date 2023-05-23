@@ -14,7 +14,7 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 Education
 ======
 * Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, August 2023 - Present
-* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.9/4.0, August 2022 - August 2023
+* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.95/4.0, August 2022 - August 2023
 * B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, August 2018 - May 2022
 
 Experience
