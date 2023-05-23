@@ -36,7 +36,11 @@ Talks
 5. *Building Your Confidene in the Sampling Distribution*, New College of Florida Mathematics Seminar, 2022
 6. *The Bayesian Approach to Modeling the World*, New College of Florida Mathematics Seminar, 2021
 
+Courses
+------
+1. *IDC 5100: Introduction to Data Science Bootcamp*, New College of Florida Master's in Applied Data Science, Fall 2023
+
 Workshops
 ------
 
-1. *A Crash Course in R for Statistics*, New College of Florida Quantitative Resource Center, 2022
+1. *A Crash Course in R for Statistics*, New College of Florida Quantitative Resource Center, Spring 2022
