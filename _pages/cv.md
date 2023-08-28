@@ -13,8 +13,8 @@ For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
 
 Education
 ======
-* Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, August 2023 - Present
-* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.95/4.0, August 2022 - August 2023
+* Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, Expected start: August 2024
+* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.95/4.0, August 2022 - May 2024
 * B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, August 2018 - May 2022
 
 Experience
@@ -46,9 +46,18 @@ Experience
   
 Teaching
 ======
-* August 2020 - May 2023: Statistics Peer-Tutor
+* Fall 2023: Adjunct Instructor
+  * New College of Florida
+  * Course: IDC 5100: Introduction to Data Science Bootcamp
+
+* August 2020 - December 2023: Statistics Peer-Tutor
   * NCF Quantitative Resource Center
   * Supervisor: Travis Lee
+ 
+* Fall 2023: Teaching Assistant
+  * New College of Florida
+  * Course: IDC 6200: Advanced Applied Statistics
+  * Professor: Dr. Bernhard Klingenberg
 
 * Fall 2022: Teaching Assistant
   * New College of Florida
@@ -77,7 +86,7 @@ Teaching
   
 Organizations and Leadership
 ======
-* Graduate Student Representative on New College Student Government (September 2022 - August 2023)
+* Graduate Student Representative on New College Student Government (September 2022 - December 2023)
 * Co-President and Co-Founder of New College Astronomy Club (January 2021 - May 2022)
 * Student Mentor in Barancik Access Leadership Program (August 2020 - May 2022)
 * Founder and President of New College Economics Club (January 2019 - May 2021)
