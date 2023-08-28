@@ -18,9 +18,9 @@ Outreach Efforts
 Media Coverage
 ======
 
-12.
+12. *2023 Quad Fellowship Summit*, 2023, [Quad Fellowship](https://apnews.com/article/education-sarasota-australia-india-japan-38d812b273f5e67e9fd5bfc8b83a5819)
 
-11. *Victoria Hosts the Inaugural Quad Fellowship Summit*, 2023, [Victoria State Government News]([https://apnews.com/article/education-sarasota-australia-india-japan-38d812b273f5e67e9fd5bfc8b83a5819](https://djsir.vic.gov.au/about-us/news/victoria-hosts-the-inaugural-quad-fellowship-summit))
+11. *Victoria Hosts the Inaugural Quad Fellowship Summit*, 2023, [Victoria State Government News](https://djsir.vic.gov.au/about-us/news/victoria-hosts-the-inaugural-quad-fellowship-summit)
 
 10. *New College Grad Student Earns Prestigious Quad Fellowship*, 2023, [AP News](https://apnews.com/article/education-sarasota-australia-india-japan-38d812b273f5e67e9fd5bfc8b83a5819)
 
