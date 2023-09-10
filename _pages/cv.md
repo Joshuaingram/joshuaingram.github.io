@@ -19,25 +19,25 @@ Education
 
 Experience
 ======
-* July 2022 - Present: IT Specialist (Statistician)
+* August 2022 - Present: Research Assistant
   *  Harvard & Smithsonian Center for Astrophysics
   * Supervisor: Dr. Vinay Kashyap
   * Research Focus: Solar Flares, X-ray source matching
 
-* August 2021 - July 2022: Research Intern
+* August 2021 - August 2022: Research Intern
   * NASA Goddard Space Flight Center
   * Supervisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
   * Research Focus: Chromospheres of cool, evolved stars
-
-* August 2020 - February 2022: Research Intern
-  * Harvard & Smithsonian Center for Astrophysics
-  * Supervisor: Dr. Vinay Kashyap
-  * Research Focus: Solar flares
 
 * Summer 2021: Statistics Intern
   * NASA Goddard Space Flight Center
   * Supervisor: James Jeletic
   * Focus: Social media data analysis
+ 
+* August 2020 - May 2021: Research Intern
+  * Harvard & Smithsonian Center for Astrophysics
+  * Supervisor: Dr. Vinay Kashyap
+  * Research Focus: Solar flares
 
 * Summer 2020: REU Intern
   * Harvard & Smithsonian Center for Astrophysics 
@@ -49,6 +49,11 @@ Teaching
 * Fall 2023: Adjunct Instructor
   * New College of Florida
   * Course: IDC 5100: Introduction to Data Science Bootcamp
+ 
+* Fall 2023: Teaching Assistant
+  * New College of Florida
+  * Course: IDC 3120: Algorithms for Data Science
+  * Professor: Dr. Patrick McDonald
 
 * August 2020 - December 2023: Statistics Peer-Tutor
   * NCF Quantitative Resource Center
