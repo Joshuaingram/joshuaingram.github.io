@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-For my full CV, see [here.](https://www.overleaf.com/read/hhydkmrmgwdg)
-
 Education
 ======
 * Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, Expected start: August 2024
