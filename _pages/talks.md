@@ -8,25 +8,25 @@ author_profile: true
 Conference Presentations
 ------
 
-1. *Machine Learning Methods to Detect More Solar Flares*, Parker Heliophysics Scholars Sixth Meeting, 2023, [TBD](TBD). [Oral Presentation]
+1. *Machine Learning Methods to Detect More Solar Flares*, Parker Heliophysics Scholars Sixth Meeting, 2023. [Oral Presentation]
 
-2. *Power-Law Estimation Via MPS: Theory and Applications*, California-Harvard Astro-Statistics Collaboration Workshop, 2022, [TBD](TBD). [Oral Presentation]
+2. *Power-Law Estimation Via MPS: Theory and Applications*, California-Harvard Astro-Statistics Collaboration Workshop, 2022. [Oral Presentation]
 
-3. *The Chromospheric Structure of the K-giant Star $\beta$ Ceti*, UV Science at Goddard Symposium, 2022, [TBD](TBD). [Poster Presentation]
+3. *The Chromospheric Structure of the K-giant Star $\beta$ Ceti*, UV Science at Goddard Symposium, 2022. [Poster Presentation]
 
-4. *A Self-Consistent Approach to Estimating Solar Flare Power-Laws within Proper Bounds*, American Geophysical Union Fall Meeting, 2021, [TBD](TBD). [Poster Presentation]
+4. *A Self-Consistent Approach to Estimating Solar Flare Power-Laws within Proper Bounds*, American Geophysical Union Fall Meeting, 2021. [Poster Presentation]
 
-5. *On the Generative Process of Solar Flares: Non-Poisson Behavior*, Electronic Undergraduate Statistics Research Conference, 2021, [TBD](TBD). [Invited Plenary Talk]
+5. *On the Generative Process of Solar Flares: Non-Poisson Behavior*, Electronic Undergraduate Statistics Research Conference, 2021. [Invited Plenary Talk]
 
-6. *On the Generative Process of Solar Flares*, Statistical Challenges in Modern Astronomy VII Conference, 2021, [TBD](TBD). [Poster Presentation]
+6. *On the Generative Process of Solar Flares*, Statistical Challenges in Modern Astronomy VII Conference, 2021. [Poster Presentation]
 
-7. *Bounded Power-Law Characterizations of Solar Flares: A Maximum Product of Spacings Approach*, American Geophysical Union Fall Meeting, 2020, [TBD](TBD). [Poster Presentation]
+7. *Bounded Power-Law Characterizations of Solar Flares: A Maximum Product of Spacings Approach*, American Geophysical Union Fall Meeting, 2020. [Poster Presentation]
 
-8. *Bounded Power-Law Characterizations of Solar Flares: A Maximum Product of Spacings Approach*, New College of Florida Mathematics Seminar, 2020, [TBD](TBD). [Oral Presentation]
+8. *Bounded Power-Law Characterizations of Solar Flares: A Maximum Product of Spacings Approach*, New College of Florida Mathematics Seminar, 2020. [Oral Presentation]
 
-9. *Bounded Power-Law Characterizations of Solar Flares: A Maximum Product of Spacings Approach*, American Astronomical Society Solar Physics Division 51 Meeting, 2020, [TBD](TBD). [Poster Presentation]
+9. *Bounded Power-Law Characterizations of Solar Flares: A Maximum Product of Spacings Approach*, American Astronomical Society Solar Physics Division 51 Meeting, 2020. [Poster Presentation]
 
-10. *Power-Law Characterizations of Solar Flares*, California-Harvard Astro-Statistics Collaboration Meeting, 2020, [TBD](TBD). [Oral Presentation]
+10. *Power-Law Characterizations of Solar Flares*, California-Harvard Astro-Statistics Collaboration Meeting, 2020. [Oral Presentation]
 
 Talks
 ------
