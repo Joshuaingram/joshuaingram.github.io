@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I'm currently a data science masters student at New College of Florida, where I also earned my received my Bachelor's in Statistics & Applied Mathematics from New College of Florida. My research is focused on astrostatistics, the crossover of astrophysics and statistics.
+Howdy! I'm currently a data science masters student at New College of Florida, where I also received my Bachelor's in Statistics & Applied Mathematics from New College of Florida. My research is focused on astrostatistics, the crossover of astrophysics and statistics.
 
 Updates
 ======
