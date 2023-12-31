@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, Expected start: August 2024
-* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.95/4.0, August 2022 - May 2024
+* M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.97/4.0, August 2022 - May 2024
 * B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, August 2018 - May 2022
 
 Experience
