@@ -13,6 +13,7 @@ Howdy! I'm currently a data science masters student at New College of Florida, w
 Updates
 ======
 
+* April 2024 - I have been selected as a receipient of the [2024 National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/about/about-grfp/).
 * August 2023 - I taught my first course, IDC 5100: Introduction to Data Science Bootcamp, at New College of Florida.
 * December 2022 - I have been selected as a recipient of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows) by Schmidt Futures. See The White House press release [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/).
 
@@ -21,8 +22,7 @@ Research Interests
 
 * Astrostatistics
 * Bayesian Statistics
-* Distributed Computing
+* Data Augmentation
 * Missing Data Problems
-* Statistics Education
-* Public Policy
+* STEM Public Policy
 * Solar and Stellar Flares
