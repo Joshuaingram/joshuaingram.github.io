@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, Expected start: August 2024
+* Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, August 2024 - Present
 * M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.97/4.0, August 2022 - May 2024
 * B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, August 2018 - May 2022
 
 Experience
 ======
-* August 2022 - Present: Research Assistant
-  *  Harvard & Smithsonian Center for Astrophysics
+
+* August 2022 - August 2024: Research Assistant
+  * Harvard & Smithsonian Center for Astrophysics
   * Supervisor: Dr. Vinay Kashyap
   * Research Focus: Solar Flares, X-ray source matching
 
@@ -89,6 +90,7 @@ Teaching
   
 Organizations and Leadership
 ======
+* Member, Board of Directors, New College Foundation (August 2024 - Present)
 * Graduate Student Representative on New College Student Government (September 2022 - December 2023)
 * Co-President and Co-Founder of New College Astronomy Club (January 2021 - May 2022)
 * Student Mentor in Barancik Access Leadership Program (August 2020 - May 2022)
