@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Joshua D Ingram"
   avatar           : "ingram_photo_down.jpg"
-  bio              : "Statistics PhD Student at Carnegie Mellon University. Research at Harvard & Smithsonian Center for Astrophysics."
+  bio              : "Statistics PhD Student at Carnegie Mellon University. Researcher at Harvard & Smithsonian Center for Astrophysics."
   location         : "Sarasota, FL"
-  employer         : 
+  employer         : "https://outlierorbit.com"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JlDVEC4AAAAJ&hl=en"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/joshua-d-ingram/"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-8751-9010"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
