@@ -4,19 +4,19 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/    
+    url: /presentations/    
 
   - title: "Teaching"
     url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
         
   - title: "Outreach"
     url: /outreach/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Media"
     url: /media/
