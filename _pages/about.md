@@ -26,3 +26,9 @@ Research Interests
 * Missing Data Problems
 * Solar and Stellar Flares
 * Higher Education Policy
+
+Posts
+======
+
+% for post in site.posts %} {% include archive-single.html %} {% endfor %}
+{% capture written_label %}'None'{% endcapture %}
