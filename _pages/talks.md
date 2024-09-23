@@ -14,10 +14,13 @@ Conference Activities
 ------
 
 * *Exploring Astronomical Catalog Crossmatching with Machine Learning*, NSF AI Institute for Artificial Intelligence and Fundamental Interactions 2024 Summer Workshop, 2024 (Poster Presentation)
-  * Victor Samuel Perez-Diaz, **Joshua D Ingram**, Vinay Kashyap, Dong-Woo Kim, Rafael Martinez-Galarza, and Pavlos Protopapas
+  * Victor Samuel Perez-Diaz, **Joshua D Ingram**, et al.
 
 * *Cross-matching X-ray and Gaia Stars to Constrain Stellar Rotational Evolution*, The 22nd Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun, 2024 ([Poster Presentation](https://zenodo.org/records/13117768))
   * Vinay Kashyap, Victor Samuel Perez-Diaz, **Joshua D Ingram**, et al.
+
+* *Enhancing Chandra-Gaia Crossmatching with Machine Learning*, American Astronomical Society High Energy Astrophysics Division 21 Meeting, 2024 (Poster Presentation)
+  * Victor Samuel Perez-Diaz, **Joshua D Ingram**, et al.
 
 * *Machine Learning Methods to Detect More Solar Flares*, Parker Heliophysics Scholars Sixth Meeting, 2023. [Oral Presentation]
 
