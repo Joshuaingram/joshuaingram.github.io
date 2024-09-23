@@ -5,22 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-In prepration
+Manuscripts In prepration
 ------
 
-1. **Ingram, J.**, Kashyap, V., Meng, X., Wang, X., Klingenberg, B.; *An Explanation of the Power-Law Distribution of Solar Flare Waiting Times*, Monthly Notice of the Royal Astronomical Society, in preperation. [TBD](TBD)
+* **Joshua D. Ingram**, Vinay Kashyap, Bernhard Klingenberg, and Xiao-Li Meng; *On the Non-Poisson Nature of Solar Flare Occurrences*, Monthly Notice of the Royal Astronomical Society, 2024.(In Preparation)
 
-2. **Ingram, J.**, Kashyap, V., Wang, X., Meng, X., Klingenberg, B.; *Bounded Power-Law Characterizations of Solar Flares*, The Astrophysical Journal, in preperation. [TBD](TBD)
+* **Joshua D. Ingram**, Vinay Kashyap, Xufei Wang, Xiao-Li Meng, and Bernhard Klingenberg; *Bounded Power-Law Characterizations of Solar Flares*, The Astrophysical Journal, 2024. (In Preparation)
 
-2. **Ingram, J.**, Rau, G., Carpenter, K.; *The Chromospheric Structure of the K-Giant Star Beta Ceti*, The Astrophysical Journal, in preperation. [TBD](TBD)
-
-Submitted
+Manuscripts in Review
 ------
 
-Accepted
-------
+* **Joshua D. Ingram**, Gioia Rau, and Kenneth Carpenter; *The Chromospheric Structure of the K-Giant Star Beta Ceti*, The Astrophysical Journal, 2024. (Submitted)
 
+* Sathvik Ajay Iyengar, Maya L. Foster, Ganesh S. Chelluboyina, **Joshua D. Ingram**, Ryoko Araki, Teja Venkatesa Perumal; *Allies in STEM Policy for the Greater Good - Voices of the Inaugural Quad Fellows*, Science, 2024. (Submitted)
+
+Accepted Manuscripts
+------
 
 Refereed Journal Publications 
 ------
-1. Xie, X., Reeves, K., Shen, C., **Ingram, J.**; *Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares*, The Astrophysical Journal 933 15 (2022), published. [Link](https://iopscience.iop.org/article/10.3847/1538-4357/ac695d)
+* Xiaoyan Xie, Katherine Reeves, Changcai Shen, and **Joshua D. Ingram**; *Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares*, The Astrophysical Journal 933 15 (2022). ([Published](https://iopscience.iop.org/article/10.3847/1538-4357/ac695d))
