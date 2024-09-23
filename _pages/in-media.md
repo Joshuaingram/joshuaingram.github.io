@@ -18,6 +18,8 @@ Outreach Efforts
 Media Coverage
 ======
 
+* *A Season of Celebration at New College*, SRQ Magazine, May 2024 ([Press Release](https://www.srqmagazine.com/srq-daily/2024-05-11/24261_A-Season-of-Celebration-at-New-College))
+
 * *2023 Quad Fellowship Summit*, 2023, [Quad Fellowship](https://apnews.com/article/education-sarasota-australia-india-japan-38d812b273f5e67e9fd5bfc8b83a5819)
 
 * *Victoria Hosts the Inaugural Quad Fellowship Summit*, 2023, [Victoria State Government News](https://djsir.vic.gov.au/about-us/news/victoria-hosts-the-inaugural-quad-fellowship-summit)
