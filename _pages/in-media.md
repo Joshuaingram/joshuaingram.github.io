@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Media & Outreach"
-permalink: /in-media/
+title: "Media"
+permalink: /media/
 author_profile: true
 ---
 
