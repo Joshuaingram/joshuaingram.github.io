@@ -43,7 +43,7 @@ Research Experience
   * Research Focus: Solar flares, catalogue cross-matching
 
 
- * August 2021 - August 2022: Research Assistant
+* August 2021 - August 2022: Research Assistant
   * NASA Goddard Space Flight Center
   * Supervisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
   * Research Focus: Chromospheres of cool, evolved stars
@@ -55,7 +55,7 @@ Research Experience
   * Research Focus: Solar flares
 
 
- * Summer 2020: REU Intern
+* Summer 2020: REU Intern
   * Harvard & Smithsonian Center for Astrophysics 
   * Supervisors: Dr. Vinay Kashyap, Lucas Guliano
   * Research Focus: Solar flares
