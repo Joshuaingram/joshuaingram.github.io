@@ -41,16 +41,19 @@ Research Experience
   * Harvard & Smithsonian Center for Astrophysics
   * Supervisor: Dr. Vinay Kashyap
   * Research Focus: Solar flares, catalogue cross-matching
- 
+
+
  * August 2021 - August 2022: Research Assistant
   * NASA Goddard Space Flight Center
   * Supervisors: Dr. Gioia Rau, Dr. Kenneth Carpenter
   * Research Focus: Chromospheres of cool, evolved stars
 
+
 * August 2020 - May 2021: Research Assistant
   * Harvard & Smithsonian Center for Astrophysics
   * Supervisor: Dr. Vinay Kashyap
   * Research Focus: Solar flares
+
 
  * Summer 2020: REU Intern
   * Harvard & Smithsonian Center for Astrophysics 
