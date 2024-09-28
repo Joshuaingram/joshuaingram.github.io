@@ -100,8 +100,8 @@ Research Collaboration Memberships
 Professional Memberships
 ======
 * National Science Policy Network (2024 - Present)
+* American Astronomical Society (2021 - Present)
 * American Statistical Association (2020 - Present)
-* American Astronomical Society (2021 - 2023)
 * American Geophysical Union (2020 - 2023)
 * American Finance Association (2020 - 2021)
 * Association for Computing Machinery (2018-2019)
