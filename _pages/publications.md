@@ -15,8 +15,6 @@ Manuscripts In prepration
 Manuscripts in Review
 ------
 
-* **Joshua D. Ingram**, Gioia Rau, and Kenneth Carpenter; *The Chromospheric Structure of the K-Giant Star Beta Ceti*, The Astrophysical Journal, 2024. (Submitted)
-
 * Sathvik Ajay Iyengar, Maya L. Foster, Ganesh S. Chelluboyina, **Joshua D. Ingram**, Ryoko Araki, Teja Venkatesa Perumal; *Allies in STEM Policy for the Greater Good - Voices of the Inaugural Quad Fellows*, Science, 2024. (Submitted)
 
 Accepted Manuscripts
