@@ -22,6 +22,7 @@ Research Interests
 Updates
 ======
 
+* December 2024 - I was selected as one of [SRQ Magazine's 35 Under 35 Honorees](https://www.srqmagazine.com/articles/2110/35-Under-35).
 * August 2024 - I have officially started my PhD in Statistics at Carnegie Mellon University.
 * April 2024 - I have been selected as a receipient of the [2024 National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/about/about-grfp/).
 * August 2023 - I taught my first course, IDC 5100: Introduction to Data Science Bootcamp, at New College of Florida.
