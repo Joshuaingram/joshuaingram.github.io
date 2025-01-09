@@ -10,6 +10,10 @@ author_profile: true
 Media Coverage
 ======
 
+* *35 Under 35: Recognizing 35 Young Professionals Under 35 On The Gulf Coast*, SRQ Magazine, December 2024 ([Magazine Article](https://www.srqmagazine.com/articles/2110/35-Under-35))
+
+* *New College Double Graduate Joshua Ingram Named to SRQ Magazine's 35 Under 35 List*, New College News, December 2024 ([Press Release](https://www.ncf.edu/news/new-college-double-graduate-joshua-ingram-named-to-srq-magazines-35-under-35-list/))
+
 * *A Season of Celebration at New College*, SRQ Magazine, May 2024 ([Press Release](https://www.srqmagazine.com/srq-daily/2024-05-11/24261_A-Season-of-Celebration-at-New-College))
 
 * *Expansion of QUAD Fellowship Underscores Commitment to Greater Educational Exchange in the Indo-Pacific Region*, The White House, February 2024 ([Press Release](https://www.quadfellowship.org/press-releases/expansion-of-quad-fellowship-underscores-commitment-to-greater-educational-exchange-in-the-indo-pacific-region))
