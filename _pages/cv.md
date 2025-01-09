@@ -7,12 +7,13 @@ author_profile: true
 
 Education
 ======
-* Ph.D. in Statistics, Carnegie Mellon University, GPA: TBD, August 2024 - Present
+* Ph.D. in Statistics, Carnegie Mellon University, GPA: 4.0/4.0, August 2024 - Present
 * M.S. in Applied Data Science, New College of Florida: The Honors College of Florida, GPA: 3.97/4.0, August 2022 - May 2024
 * B.A. in Statistics & Applied Mathematics, New College of Florida: The Honors College of Florida, GPA: 4.0/4.0, August 2018 - May 2022
 
 Honors and Awards
 ======
+* 35 Under 35 Professional Award, SRQ Magazine (2024)
 * 2nd Place Winner, Undergraduate Statistics Research Project Competition - American Statistical Association and Consortium for the Advancement of Undergraduate Statistics Education (2021)
 * Nominee, Barry Goldwater Scholarship, Barry Goldwater Scholarships and Excellence in Education Foundation (2021)
 
@@ -29,6 +30,7 @@ Fellowships and Scholarships
 
 Grants
 ======
+* CMU GSA/Provost Conference Grant ($750) - Carnegie Mellon University (2024)
 * NCF Data Science Travel Grant ($5,000) - New College of Florida (2023)
 * Barancik Access Opportunity Grant ($1,500) - Charles & Margery Barancik Foundation (2022)
 * NCF Student Research and Travel Grant ($1,250) - New College of Florida (2021)
@@ -78,7 +80,7 @@ Service to Profession
 
 University and Department Service and Leadership
 ======
-* Member, Board of Directors, New College Foundation, Inc. (August 2024 - Present)
+* Member, Board of Directors, New College Foundation, Inc. (February 2025 - Present)
 * Committee Member, Search Committee for Associate Director of Scholarship and Fellowship Advising, New College of Florida (February 2024 - May 2024)
 
 Extracurricular University Service and Leadership
