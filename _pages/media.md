@@ -8,7 +8,7 @@ author_profile: true
 Media Coverage
 ======
 
-* New College Foundation Welcomes Five Distinguished Professionals to the Board of Directors [[Press Release](https://www.srqmagazine.com/srq-daily/2025-02-26/26227_New-College-Foundation-Welcomes-Five-Distinguished-Professionals-to-Board-of-Directors)]. SRQ Magazine, February 2025.
+* New College Foundation Welcomes Five Distinguished Professionals to the Board of Directors [[Press Release](https://www.srqmagazine.com/srq-daily/2025-02-26/26227_New-College-Foundation-Welcomes-Five-Distinguished-Professionals-to-Board-of-Directors)]. *SRQ Magazine*, February 2025.
 * 35 Under 35: Recognizing 35 Young Professionals Under 35 On The Gulf Coast [[Magazine Article](https://www.srqmagazine.com/articles/2110/35-Under-35)]. *SRQ Magazine*, December 2024.
 * New College Double Graduate Joshua Ingram Named to SRQ Magazine's 35 Under 35 List [[Press Release](https://www.ncf.edu/news/new-college-double-graduate-joshua-ingram-named-to-srq-magazines-35-under-35-list/)]. *New College News*, December 2024.
 * A Season of Celebration at New College [[Press Release](https://www.srqmagazine.com/srq-daily/2024-05-11/24261_A-Season-of-Celebration-at-New-College)]. *SRQ Magazine*, May 2024.

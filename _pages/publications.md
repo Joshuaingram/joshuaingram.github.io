@@ -8,7 +8,7 @@ author_profile: true
 Journal Publications
 ------
 
-* Xie, X., Reeves, K. Shen, C., and Ingram, J. D. (2022). Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares. *[The Astrophysical Journal 933 (15)](https://iopscience.iop.org/article/10.3847/1538-4357/ac695d)*. 
+* Xie, X., Reeves, K. Shen, C., and **Ingram, J. D.** (2022). Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares. *[The Astrophysical Journal 933 (15)](https://iopscience.iop.org/article/10.3847/1538-4357/ac695d)*. 
 
 Accepted Manuscripts
 ------
