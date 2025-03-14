@@ -7,9 +7,9 @@ author_profile: true
 
 Education
 ======
-Ph.D. in Statistics - Carnegie Mellon University, GPA: 4.00/4.00 (Aug 2024 – Present)
-M.S. in Applied Data Science - New College of Florida, GPA: 3.97/4.00 (Aug 2022 – May 2024)
-B.A. in Applied Mathematics & Statistics, minor in Economics - New College of Florida, GPA: 4.00/4.00 (Aug 2018 -- May 2022)
+* Ph.D. in Statistics - Carnegie Mellon University, GPA: 4.00/4.00 (Aug 2024 – Present)
+* M.S. in Applied Data Science - New College of Florida, GPA: 3.97/4.00 (Aug 2022 – May 2024)
+* B.A. in Applied Mathematics & Statistics, minor in Economics - New College of Florida, GPA: 4.00/4.00 (Aug 2018 -- May 2022)
 
 Experience
 ======
