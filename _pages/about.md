@@ -26,6 +26,7 @@ Research Collaborations
 News
 ======
 
+* July 2025 - My co-first author article ["Investing in the Indo-Pacific Promise: Evolving Early Career STEM Diplomacy Across the Quad and ASEAN"](https://doi.org/10.1126/scidip.aea4232) has been published in [AAAS Science & Diplomacy](https://www.sciencediplomacy.org).
 * February 2025 - I have been appointed to the Board of Directors of the [New College Foundation](https://www.srqmagazine.com/srq-daily/2025-02-26/26227_New-College-Foundation-Welcomes-Five-Distinguished-Professionals-to-Board-of-Directors), the designated honors college of the [State University System of Florida](https://www.flbog.edu).
 * December 2024 - I was selected as one of [SRQ Magazine's 35 Under 35 Honorees](https://www.srqmagazine.com/articles/2110/35-Under-35).
 * August 2024 - I have officially started my PhD in Statistics at Carnegie Mellon University.
