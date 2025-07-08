@@ -19,3 +19,9 @@ Outreach Efforts
 * Organizer, *Cosmic Wonders Guest Speaker Series* – New College Astronomy Club (2021 – 2022)
 
 * Organizer, *Economics Symposium Series* – New College Economics Club (2020 – 2021)
+
+
+Events
+=====
+
+
