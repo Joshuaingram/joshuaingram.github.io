@@ -19,6 +19,7 @@ Updates
 * December 2023 - I founded my data science consulting and solutions company, [OutlierOrbit LLC](https://outlierorbit.com).
 * August 2023 - I taught my first course, IDC 5100: Introduction to Data Science Bootcamp, at New College of Florida.
 * December 2022 - I have been selected as a recipient of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows) by Schmidt Futures. See The White House press release [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/).
+* June 2022 - My first ever co-author paper was ["Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares"](https://iopscience.iop.org/article/10.3847/1538-4357/ac695d) published in The Astrophysical Journal.
 * May 2022 - I officially graduated from New College of Florida with my B.A. in Applied Mathematics & Statistics with a minor in Economics.
 * June 2021 - I started my internship with the [NASA Hubble Communications Team](https://science.nasa.gov/mission/hubble/team/).
 * June 2020 - I started my first internship at the Harvard & Smithsonian Center for Astrophysics for the [SAO Solar REU](https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/heassp-solar-physics-reu-program).
