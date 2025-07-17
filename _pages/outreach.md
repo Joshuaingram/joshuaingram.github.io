@@ -33,15 +33,24 @@ Events
 <br><em>Blackout stargazing party at New College of Florida Bayfront in Sarasota, FL (2021).</em>
 </div>
 
+<br>
+<br>
+
 <div align="center">
 <img src="/images/ncf_blackout_party_college_hall.jpg" alt="Alt text description" width="500">
 <br><em>Public stargazing party at New College of Florida Bayfront in Sarasota, FL (2021).</em>
 </div>
 
+<br>
+<br>
+
 <div align="center">
 <img src="/images/ncf_halloween_outreach_stargazing.jpeg" alt="Alt text description" width="500">
 <br><em>Halloween stargazing party at New College of Florida Bayfront in Sarasota, FL (2022).</em>
 </div>
+
+<br>
+<br>
 
 * Organizer, *Cosmic Wonders Guest Speaker Series* – New College Astronomy Club (2021 – 2022)
 * Organizer, *Economics Symposium Series* – New College Economics Club (2020 – 2021)
@@ -50,6 +59,15 @@ Civic Engagement & Advocacy
 ------
 * Board Representative, New College Foundation - Engagements with Florida Legislature (2024 - 2025)
 * Quad Fellow, Institute of International Education - Engagements with The White House (2024)
+
+<div align="center">
+<img src="/images/quad_fellows_white_house.jpg" alt="Alt text description" width="500">
+<br><em>Quad Fellows Quad Fellows engaging with Cabinent Members at The White House event in Washington, D.C. (2024).</em>
+</div>
+
+<br>
+<br>
+
 * Student Representative, Florida Student Association - Engagements with Florida Legislature and Congress (2021 - 2024)
 
 <div align="center">
@@ -63,9 +81,12 @@ Civic Engagement & Advocacy
 * Graduate Student Representative, New College Student Government - Engagements with Florida Legislature and Florida SUS Board of Governors (2022 - 2024)
 
 <div align="center">
-<img src="/images/fsa_student_gv_congress.JPEG" alt="Alt text description" width="500">
-<br><em>Florida Student Association engaging with Congress and the Florida House in Washington, D.C. (2024).</em>
+<img src="/images/governor_fl_ncf.JPG" alt="Alt text description" width="500">
+<br><em>New College Student Government engaging with the Florida Legislature and Flordida Governor's Office in Tallahassee, FL. (2023).</em>
 </div>
+
+<br>
+<br>
 
 Community Engagement
 ------
