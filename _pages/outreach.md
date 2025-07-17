@@ -26,6 +26,13 @@ Speaking Engagements
 
 Events
 ------
+* Organizer, *Public Stargazing Events at New College Bayfront* - New College Astronomy Club (2021 - 2024)
+
+<div align="center">
+<img src="/images/ncf_blackout_party_college_hall.jpg.jpg" alt="Alt text description" width="600">
+<br><em>Public stargazing party at New College of Florida Bayfront in Sarasota, FL.</em>
+</div>
+
 * Organizer, *Cosmic Wonders Guest Speaker Series* – New College Astronomy Club (2021 – 2022)
 * Organizer, *Economics Symposium Series* – New College Economics Club (2020 – 2021)
 * blackout stargazing party
