@@ -11,6 +11,7 @@ Invited Talks
 
 Conference and Workshop Talks
 ------
+* Carzon, J., Masserano, L., Shen, A., **Ingram, J. D.**, Riberio Jr., A. C. H., Dorigo, T., Doro, M., Speagle, J., Izbicki, R., and Lee, A. B. (2025). *Trustworthy Scientific Inference for Inverse Problems with Generative Models* [Poster Presentation]. Uncertainty Quantification and AI for Complex Systems.
 * Perez-Diaz, V. S., Kashyap, V. L., **Ingram, J. D.**, Drake, J. Fouhey, D., Martinez-Galarza, J. R., Garraffo, C., Kim, D.-W., and Protopapas, P. (2024). *Resolving Ambiguous Gaia Matches to X-ray Sources in the Chandra Source Catalog Using Machine Learning* [Poster Presentation]. American Astronomical Society 245th Meeting.
 * Perez-Diaz , V. S., **Ingram, J. D.**, Kashyap, V. L., Kim, D.-W., Martinez-Galarza, J. R., and Protopapas, P. (2024). *Exploring Astronomical Catalog Crossmatching with Machine Learning* [Poster Presentation]. NSF AI Institute for Artificial Intelligence and Fundamental Interactions 2024 Summer Workshop.
 * Kashyap, V. L., Perez-Diaz, V. S., **Ingram, J. D.**, Martinez-Galarza, J. R., Protopapas, P., Puigdomenech , F. F., Monsch, K., Drake, J., Garraffo, C., Kim, D.-W., and Mossman, A.,(2024). *Cross-matching X-ray and Gaia Stars to Constrain Stellar Rotational Evolution* [[Poster Presentation](https://zenodo.org/records/13117768)]. 22nd Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun.
