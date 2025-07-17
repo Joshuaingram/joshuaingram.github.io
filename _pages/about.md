@@ -25,7 +25,7 @@ Research Collaborations
 * [STAMPS@CMU](https://www.cmu.edu/dietrich/statistics-datascience/stamps/) – Statistical Methods for the Physical Sciences Research Center
 * [CHASC](https://hea-www.harvard.edu/astrostat/) - International CHASC Astro-Statistics Collaboration
 
-News
+Updates
 ======
 
 * July 2025 - My co-first author article ["Investing in the Indo-Pacific Promise: Evolving Early Career STEM Diplomacy Across the Quad and ASEAN"](https://doi.org/10.1126/scidip.aea4232) has been published in [AAAS Science & Diplomacy](https://www.sciencediplomacy.org).
