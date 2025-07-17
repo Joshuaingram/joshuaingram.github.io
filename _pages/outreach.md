@@ -9,7 +9,7 @@ Outreach Efforts
 ======
 
 <div align="center">
-<img src="/images/quad_fellowship_summit_interview.jpg" alt="Alt text description" width="600">
+<img src="/images/quad_fellowship_summit_interview.jpg" alt="Alt text description" width="500">
 <br><em>Interview at the Quad Fellowship Summit in Melbourne, Australia.</em>
 </div>
 
@@ -62,7 +62,7 @@ Civic Engagement & Advocacy
 
 <div align="center">
 <img src="/images/quad_fellows_white_house.jpg" alt="Alt text description" width="500">
-<br><em>Quad Fellows Quad Fellows engaging with Cabinent Members at The White House event in Washington, D.C. (2024).</em>
+<br><em>Quad Fellows Quad Fellows engaging with the U.S. Cabinent Members and diplomats of the Quad countries at The White House event in Washington, D.C. (2024).</em>
 </div>
 
 <br>
