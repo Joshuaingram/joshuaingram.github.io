@@ -67,6 +67,14 @@ Civic Engagement & Advocacy
 ------
 * Board Representative, New College Foundation - Engagements with Florida Legislature (2025)
 
+<div align="center">
+<img src="/images/ncf_board_tally.JPG" alt="Alt text description" width="500">
+<br><em>New College students and leadership engaging with the Florida Legislature and Flordida Governor's Office in Tallahassee, FL. (2025).</em>
+</div>
+
+<br>
+<br>
+
 * Quad Fellow, Institute of International Education - Engagements with The White House and Quad Countries (2024)
 
 <div align="center">
@@ -107,6 +115,7 @@ Civic Engagement & Advocacy
 
 Community Engagement
 ------
+
 * Mentor, Undergraduate Students - Barancik Access Leadership Scholarship Program (2020 - 2022)
 * Mentor, High School Students - Economics and Finance Mentorship Program (2019)
 
