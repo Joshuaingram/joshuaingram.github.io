@@ -29,7 +29,7 @@ Events
 * Organizer, *Public Stargazing Events at New College Bayfront* - New College Astronomy Club (2021 - 2024)
 
 <div align="center">
-<img src="/images/ncf_blackout_party_college_hall.jpg.jpg" alt="Alt text description" width="600">
+<img src="/images/ncf_blackout_party_college_hall.jpg" alt="Alt text description" width="600">
 <br><em>Public stargazing party at New College of Florida Bayfront in Sarasota, FL.</em>
 </div>
 
