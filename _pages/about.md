@@ -37,4 +37,4 @@ Updates
 * August 2023 - I taught my first course, IDC 5100: Introduction to Data Science Bootcamp, at New College of Florida.
 * December 2022 - I have been selected as a recipient of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows) by Schmidt Futures. See The White House press release [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/).
 
-[Updates Archive](/updates_archive)
+[Updates Archive](/updates_archive/)
