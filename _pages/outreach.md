@@ -8,10 +8,8 @@ author_profile: true
 Outreach Efforts
 ======
 
-<div align="center">
 <img src="/images/quad_fellowship_summit_interview.jpg" alt="Alt text description" width="600">
 <br><em>Interview at the Quad Fellowship Summit in Melbourne, Australia.</em>
-</div>
 
 Speaking Engagements
 ------
