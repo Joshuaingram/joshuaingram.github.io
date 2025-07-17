@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Howdy! I'm a data scientist developing statistical and machine learning methods for problems in the physical sciences, particularly in astrophysics. I graduated from New College of Florida with a B.A. in Statistics & Applied Mathematics in 2022 and an M.S. in Applied Data Science in 2024. Currently, I am pursuing a Ph.D. in Statistics at Carnegie Mellon University while maintaining collaborations at the Harvard & Smithsonian Center for Astrophysics to better detect and model solar flares using satellite data. Previously, I have conducted research in the Exoplanets and Stellar Astrophysics Laboratory at the NASA Goddard Space Flight Center and worked on the NASA Hubble Communications Team. Beyond my studies, I am passionate about STEM outreach, higher education policy, and creating a future that is both secure for AI developments and beneficial for society. I am also the founder and principal consultant of OutlierOrbit, a data science consulting and solutions company, and a member of the Board of Directors of the New College Foundation.
+Howdy! I'm a data scientist developing statistical and machine learning methods for problems in the physical sciences. Currently, I'm pursuing a Ph.D. in Statistics at Carnegie Mellon University and conducting research in the CMU [Statistical Methods for the Physical Sciences (STAMPS) Research Center](https://www.cmu.edu/dietrich/statistics-datascience/stamps/) on trustworthy AI for science with [Dr. Ann B. Lee](https://www.stat.cmu.edu/~annlee/). I also maintain research collaborations at the [Harvard & Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu) and with the [International CHASC Astro-Statistics Collaboration](https://hea-www.harvard.edu/astrostat/), where I am working to better detect and understand solar flares using statistical and machine learning methods. Previously, I have conducted research in the [Exoplanets and Stellar Astrophysics Laboratory](https://science.gsfc.nasa.gov/astrophysics/exoplanets) at the [NASA Goddard Space Flight Center[(https://www.google.com/search?client=safari&rls=en&q=nasa+goddard&ie=UTF-8&oe=UTF-8) and interned with the [NASA Hubble Communications Team](https://science.nasa.gov/mission/hubble/team/#mission-operations).
+
+I graduated from New College of Florida with a B.A. in Statistics & Applied Mathematics in 2022 and an M.S. in Applied Data Science in 2024. Beyond my studies, I am passionate about STEM outreach, higher education policy, and connecting scientific research to tangible benefits for society through technological and policy solutions. I am also the founder and principal consultant of [OutlierOrbit](https://outlierorbit.com), a data science consulting and solutions company, and a member of the Board of Directors of the [New College Foundation](https://www.ncf.edu/alumni/foundation/).
 
 Research Interests
 ======
 
-* **Statistical Methods for Physical Sciences**: Astrostatistics, flare detection, catalog cross-matching
-* **Data Science**: Missing data methods, uncertainty quantification, statistical learning
-* **Technology & AI**: AI for decision making, fairness, governance and policy
+* **Statistical Methods for Physical Sciences**: Trustworthy AI for scientific inference, astrostatistics, solar and stellar flares, catalog cross-matching
+* **Data Science**: Simulation-based inference, selection effects and mission data, uncertainty quantification, statistical learning
+* **Technology & AI**: AI for decision making, governance and policy
 * **Higher Education**: Academic freedom, STEM education and research, accessibility and funding models
 
 Research Collaborations
