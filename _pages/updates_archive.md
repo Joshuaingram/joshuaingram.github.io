@@ -5,7 +5,7 @@ permalink: /updates_archive/
 author_profile: true
 ---
 
-This page acts a sort of timeline of my life in regards to notable professional milestones and achievements.
+This page acts a sort of professional timeline in regards to milestones and achievements.
 
 Updates
 ======
@@ -16,6 +16,10 @@ Updates
 * August 2024 - I have officially started my PhD in Statistics at Carnegie Mellon University in the [Department of Statistics & Data Science](https://www.cmu.edu/dietrich/statistics-datascience/index.html).
 * May 2024 - I officially graduated from New College of Florida with my M.S. in Applied Data Science.
 * April 2024 - I have been selected as a receipient of the [2024 National Science Foundation Graduate Research Fellowship](https://www.nsfgrfp.org/about/about-grfp/).
+* December 2023 - I founded my data science consulting and solutions company, [OutlierOrbit LLC](https://outlierorbit.com).
 * August 2023 - I taught my first course, IDC 5100: Introduction to Data Science Bootcamp, at New College of Florida.
 * December 2022 - I have been selected as a recipient of the [Quad Fellowship](https://www.quadfellowship.org/quad-fellows) by Schmidt Futures. See The White House press release [here](https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/09/statement-by-national-security-advisor-jake-sullivan-congratulating-inaugural-quad-fellows/).
 * May 2022 - I officially graduated from New College of Florida with my B.A. in Applied Mathematics & Statistics with a minor in Economics.
+* June 2021 - I started my internship with the [NASA Hubble Communications Team](https://science.nasa.gov/mission/hubble/team/).
+* June 2020 - I started my first internship at the Harvard & Smithsonian Center for Astrophysics for the [SAO Solar REU](https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/heassp-solar-physics-reu-program).
+* August 2018 - I officially started my undergraduate studies at New College of Florida.
