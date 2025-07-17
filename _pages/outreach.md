@@ -58,11 +58,20 @@ Events
 Civic Engagement & Advocacy
 ------
 * Board Representative, New College Foundation - Engagements with Florida Legislature (2024 - 2025)
-* Quad Fellow, Institute of International Education - Engagements with The White House (2024)
+
+* Quad Fellow, Institute of International Education - Engagements with The White House and Quad Countries (2024)
 
 <div align="center">
-<img src="/images/quad_fellows_white_house.jpg" alt="Alt text description" width="500">
+<img src="/images/quad_fellows_white_house_crop.jpg" alt="Alt text description" width="500">
 <br><em>Quad Fellows Quad Fellows engaging with the U.S. Cabinent Members and diplomats of the Quad countries at The White House event in Washington, D.C. (2024).</em>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<img src="/images/quad_fellows_summit_melbourne.jpeg" alt="Alt text description" width="500">
+<br><em>Quad Fellows Quad Fellows engaging with the Governor of Victoria and diplomats of the Quad countries at The Government House in Victoria, Australia (2023).</em>
 </div>
 
 <br>
