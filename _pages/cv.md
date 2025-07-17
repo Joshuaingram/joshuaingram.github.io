@@ -16,6 +16,9 @@ Experience
 
 Research
 -----
+* Research Assistant – Carnegie Mellon University (Aug 2024 – Present)
+	* Department of Statistics & Data Science
+	* CMU Statistical Methods for the Physical Sciences (STAMPS) Research Center
 * Research Assistant – Harvard & Smithsonian Center for Astrophysics (Jul 2022 -- Aug 2024)
 	* High Energy Astrophysics Division
 * Research Assistant – NASA Goddard Space Flight Center (Aug 2021 – Jul 2022)
@@ -42,9 +45,10 @@ Leadership and Governance
 
 Honors and Awards
 ======
-* 35 Under 35 Professional Award, SRQ Magazine (2024)
+* Selected Class Member, Leadership Florida Connect Class 15 – Leadership Florida (2025)
+* 35 Under 35 Professional Award - SRQ Magazine (2024)
 * 2nd Place Winner, Undergraduate Statistics Research Project Competition - CAUSE, American Statistical Association (2021)
-* Nominee, Barry Goldwater Scholarship, Barry Goldwater Scholarships and Excellence in Education Foundation (2021)
+* Nominee, Barry Goldwater Scholarship - Barry Goldwater Scholarships and Excellence in Education Foundation (2021)
 
 Fellowships and Scholarships
 ======
@@ -83,7 +87,7 @@ Department
 
 University
 ------
-* External Affairs Committee – Carnegie Mellon University Graduate Student Assembly (2025 – Present)
+* Committee Member and Foundation Representative, New College Scholarship Committee – New College of Florida (2025)
 * Graduate Student Representative – New College Student Government (2022 - 2024)
 * Student Volunteer – Florida Student Association (2022 – 2024)
 
@@ -104,7 +108,7 @@ Professional
 * American Geophysical Union (2021 – 2023)
 * Association for Computing Machinery (2018 – 2019)
 
-Certifications
+Certifications and Professional Development
 ======
 * CITI Physical Sciences Responsible Conduct of Research (2024)
 * Bloomberg Market Concepts (2019)
@@ -124,5 +128,5 @@ Clubs
 
 Athletics
 ------
-* Obstacle Course Racing – Independent (2022 – Present): Jacksonville Spartan Sprint 5k (2022); Central Florida Spartan Super 10k (2022); Central Florida Spartan Sprint 5k (2023);
-* Olympic Weightlifting – Team Florida Manatee County (2014 – 2019);
+* Obstacle Course Racing – Independent (2022 – Present): Jacksonville Spartan Sprint 5k (2022); Central Florida Spartan Super 10k (2022); Central Florida Spartan Sprint 5k (2023); West Virginia Spartan Beast 21k (2025)
+* Olympic Weightlifting – Team Florida Manatee County (2014 – 2019): 6th Place, USA Weightlifting National Youth Championship (2014); 3rd Place, USA Weightlifting National Youth Championships (2015); 6th Place, USA Weightlifting National Youth Championship (2016); 3rd Place, USA Weightlifting National Youth Championships (2017); 1st Place, USA Weightlifting American Open Series II (2017)
