@@ -24,7 +24,7 @@ Teaching Assistantships
 
 Tutoring
 ======
-* Private Mathematics Tutor - Brain Buff Tutoring (Fall 2019 - Present)
+* Private Mathematics Tutor - Brain Buff Tutoring (Fall 2019 - Summer 2024)
 * Statistics Peer-Tutor - Quantitative Resource Center, New College of Florida (Fall 2020 - Spring 2024)
 
 Mentorship
