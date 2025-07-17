@@ -29,6 +29,14 @@ Events
 * Organizer, *Public Stargazing Events in Sarasota, FL* - New College Astronomy Club (2021 - 2024)
 
 <div align="center">
+<img src="/images/ncf_laser_stargazing_green.JPG" alt="Alt text description" width="500">
+<br><em>Stargazing event and STEM outreach event at New College of Florida in Sarasota, FL (2021).</em>
+</div>
+
+<br>
+<br>
+
+<div align="center">
 <img src="/images/ncf_stargazing_party_college_hall_bayfront.jpg" alt="Alt text description" width="500">
 <br><em>Blackout stargazing party at New College of Florida Bayfront in Sarasota, FL (2021).</em>
 </div>
@@ -57,7 +65,7 @@ Events
 
 Civic Engagement & Advocacy
 ------
-* Board Representative, New College Foundation - Engagements with Florida Legislature (2024 - 2025)
+* Board Representative, New College Foundation - Engagements with Florida Legislature (2025)
 
 * Quad Fellow, Institute of International Education - Engagements with The White House and Quad Countries (2024)
 
