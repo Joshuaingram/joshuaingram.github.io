@@ -26,6 +26,7 @@ Conference and Workshop Talks
 
 Seminars and Department Talks
 ------
+* **Ingram, J. D.** (2025).  *Incorporating Measurement Uncertainties in Stellar Label Estimation* [Oral Presentation]. CMU Statistics & Data Science Advanced Data Analysis Seminar.
 * **Ingram, J. D.** (2022). *Securing and Maximizing Internships* [Oral Presentation]. New College of Florida Data Science Seminar.
 * **Ingram, J. D.** (2022). *Astrostatistics: A Case for Better Statistical Literacy* [Oral Presentation]. Center for Astrophysics NSF REU Programs.
 * **Ingram, J. D.** (2022). *Building Your Confidence in the Sampling Distribution* [Oral Presentation]. New College of Florida Mathematics Seminar.
