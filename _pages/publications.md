@@ -8,7 +8,6 @@ author_profile: true
 Journal Publications
 ------
 * Iyengar, S. A., **Ingram, J. D.**, and Araki, R. (2025). Investing in the Indo-Pacific Promise: Evolving Early-Career STEM Diplomacy Across the Quad and ASEAN. *[Science & Diplomacy](https://doi.org/10.1126/scidip.aea4232)*.
-* 
 * Xie, X., Reeves, K. Shen, C., and **Ingram, J. D.** (2022). Statistical Study of the Kinetic Features of Supra-arcade Downflows Detected from Multiple Solar Flares. *[The Astrophysical Journal 933 (15)](https://doi.org/10.3847/1538-4357/ac695d)*.
 
 Accepted Manuscripts
