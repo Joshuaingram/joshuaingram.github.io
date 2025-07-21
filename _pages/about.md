@@ -15,7 +15,7 @@ Research Interests
 ======
 
 * **Statistical Methods for Physical Sciences**: Trustworthy AI for scientific inference, astrostatistics, solar and stellar flares, catalog cross-matching
-* **Data Science**: Simulation-based inference, selection effects and mission data, uncertainty quantification, statistical learning
+* **Data Science**: Simulation-based inference, selection effects and missing data, uncertainty quantification, statistical learning
 * **Technology & AI**: AI for decision making, governance and policy
 * **Higher Education**: Academic freedom, STEM education and research, accessibility and funding models
 
