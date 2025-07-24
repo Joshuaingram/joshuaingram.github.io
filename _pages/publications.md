@@ -16,7 +16,7 @@ Accepted Manuscripts
 Manuscripts Under Review
 ------
 
-* Carzon, J., Masserano, L., Shen, A., **Ingram, J. D.**, Riberio Jr., A. C. H., Dorigo, T., Doro, M., Speagle, J., Izbicki, R., and Lee, A. B. (2025). Trustworthy Scientific Inference for Inverse Problems with Generative Models. *Manuscript Under Review*.
+* Carzon, J., Masserano, L., **Ingram, J. D.**, Shen, A., Riberio Jr., A. C. H., Dorigo, T., Doro, M., Speagle, J., Izbicki, R., and Lee, A. B. (2025). Trustworthy Scientific Inference for Inverse Problems with Generative Models. *Manuscript Under Review*.
   
 Manuscripts In Preparation
 ------
@@ -29,3 +29,7 @@ Manuscripts In Preparation
 
 * **Ingram, J. D.**, Kashyap, V. L., Wang, X., Meng, X.-L., and Klingenberg, K. (2025). Bounded Power-Law Characterizations of Solar Flares. *Manuscript in Preparation*.
 
+Theses
+------
+
+* **Ingram, J. D.** (2022). Statistical Modeling of Solar Flare Occurrences and their Energy Distributions. *[Undergraduate Honors Thesis](https://digitalcommons.ncf.edu/theses_etds/6251/)*, New College of Florida. Advisor: Dr. Bernhard Klingenberg.
