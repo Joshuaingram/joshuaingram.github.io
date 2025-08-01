@@ -37,5 +37,5 @@ Media Coverage
 * What It Means To Be A Novo [[Podcast Interview](https://newcollegeofflorida.podbean.com/e/what-it-means-to-be-a-novo/)]. *Making a Better New Podcast*, October 2021.
 * NCF scholar Joshua Ingram aims for the stars [[Written Interview](https://www.ncf.edu/news/news/ncf-scholar-joshua-ingram-aims-for-the-stars/)]. *New College News*, September 2021.
 * Student Research Opportunities [[Video Interview](https://www.youtube.com/watch?v=tr-oB4blNTk&t=1s)]. *New College News*, November 2020.
-* New group ISP demonstrate breadth of curriculum [[News Article](https://ncfcatalyst.com/new-group-isp-demonstrate-breadth-of-curriculum/)]. *The Catalyst*, Novbember 2019.
+* New group ISP demonstrate breadth of curriculum [[News Article](https://ncfcatalyst.com/new-group-isp-demonstrate-breadth-of-curriculum/)]. *The Catalyst*, November 2019.
 * On being a student from Sarasota [[Written Interview](https://ncfcatalyst.com/on-being-a-student-from-sarasota/)]. *The Catalyst*, May 2019.
