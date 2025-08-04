@@ -16,6 +16,7 @@ author_profile: true
 Media Coverage
 ======
 
+* Find out what's going on with Dietrich College students and alumni, including Joshua Ingram (DC 2029) [[Newsletter](https://www.cmu.edu/dietrich/alumni/class-notes.html#august25)]. *CMU Dietrich College News*, August 2025.
 * New College Foundation Welcomes Five Distinguished Professionals to the Board of Directors [[Press Release](https://www.srqmagazine.com/srq-daily/2025-02-26/26227_New-College-Foundation-Welcomes-Five-Distinguished-Professionals-to-Board-of-Directors)]. *SRQ Magazine*, February 2025.
 * 35 Under 35: Recognizing 35 Young Professionals Under 35 On The Gulf Coast [[Magazine Article](https://www.srqmagazine.com/articles/2110/35-Under-35)]. *SRQ Magazine*, December 2024.
 * New College Double Graduate Joshua Ingram Named to SRQ Magazine's 35 Under 35 List [[Press Release](https://www.ncf.edu/news/new-college-double-graduate-joshua-ingram-named-to-srq-magazines-35-under-35-list/)]. *New College News*, December 2024.
