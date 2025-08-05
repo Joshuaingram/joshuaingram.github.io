@@ -16,7 +16,7 @@ Accepted Manuscripts
 Manuscripts Under Review
 ------
 
-* Carzon, J., Masserano, L., **Ingram, J. D.**, Shen, A., Riberio Jr., A. C. H., Dorigo, T., Doro, M., Speagle, J., Izbicki, R., and Lee, A. B. (2025). Trustworthy Scientific Inference for Inverse Problems with Generative Models. *Manuscript Under Review*.
+* Carzon, J., Masserano, L., **Ingram, J. D.**, Shen, A., Riberio Jr., A. C. H., Dorigo, T., Doro, M., Speagle, J., Izbicki, R., and Lee, A. B. (2025). Trustworthy Scientific Inference for Inverse Problems with Generative Models. *[Manuscript Under Review](https://arxiv.org/abs/2508.02602)*.
   
 Manuscripts In Preparation
 ------
