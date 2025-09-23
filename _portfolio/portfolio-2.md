@@ -1,6 +1,6 @@
 ---
 title: "tsi - Trustworthy Scientific Inference"
-excerpt: "Open-source Python package implementing Frequentist-Bayes (FreB) protocol for rigorous uncertainty quantification in AI-driven scientific inference<br/><img src='/images/500x300.png'>"
+excerpt: "Open-source Python package implementing Frequentist-Bayes (FreB) protocol for rigorous uncertainty quantification in AI-driven scientific inference<br/><img src='/images/code_screenshot.png'>"
 collection: portfolio
 ---
 
