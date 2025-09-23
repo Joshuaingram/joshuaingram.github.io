@@ -1,5 +1,5 @@
 ---
-title: "lf2i - Likelihood-Free Frequnetist Inference"
+title: "lf2i - Likelihood-Free Frequentist Inference"
 excerpt: "Python package for constructing rigorous confidence regions with guaranteed coverage in simulation-based inference<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
