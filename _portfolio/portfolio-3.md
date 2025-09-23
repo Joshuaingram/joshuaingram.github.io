@@ -1,6 +1,6 @@
 ---
 title: "starsml - Machine Learning for Astronomical Catalog Cross-Matching"
-excerpt: "Python package implementing ML-based algorithms to resolve ambiguous cross-matches between X-ray and optical astronomical catalogs<br/><img src='/images/500x300.png'>"
+excerpt: "Python package implementing ML-based algorithms to resolve ambiguous cross-matches between X-ray and optical astronomical catalogs<br/><img src='/images/code_screenshot.png'>"
 collection: portfolio
 ---
 
