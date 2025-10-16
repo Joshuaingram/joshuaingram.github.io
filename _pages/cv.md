@@ -74,6 +74,7 @@ Fellowships and Scholarships
 
 Grants
 ======
+* Sys2025 Early Career Travel Grant ($1,000) – University of Alabama in Huntsville College of Science (2025)
 * CMU GSA/Provost Conference Grant ($750) - Carnegie Mellon University (2024)
 * NCF Data Science Travel Grant ($5,000) - New College of Florida (2023)
 * Barancik Access Opportunity Grant ($1,500) - Charles & Margery Barancik Foundation (2022)
