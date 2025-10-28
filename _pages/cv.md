@@ -14,7 +14,7 @@ Education
 	* Advised by [Dr. Bernhard Klingenberg](https://www.ncf.edu/directory/bernhard-klingenberg/)
  	* GPA: 3.97/4.00
 * B.A. in Applied Mathematics & Statistics, minor in Economics - New College of Florida (Aug 2018 -- May 2022)
- 	* Advised by [Dr. Bernhard Klingenberg](https://www.ncf.edu/directory/bernhard-klingenberg/) and [Dr. Patrick McDonald](https://www.ncf.edu/directory/patrick-t-mcdonald/)
+ 	* Advised by [Dr. Bernhard Klingenberg](https://www.ncf.edu/directory/bernhard-klingenberg/)
     * GPA: 4.00/4.00
 
 Experience
