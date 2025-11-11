@@ -23,7 +23,7 @@ Research Collaborations
 ======
 
 * [STAMPS@CMU](https://www.cmu.edu/dietrich/statistics-datascience/stamps/) – Statistical Methods for the Physical Sciences Research Center
-* [CHASC](https://hea-www.harvard.edu/astrostat/) - International CHASC Astro-Statistics Collaboration
+* [CHASC](https://hea-www.harvard.edu/astrostat/) - International CHASC Astro-Statistics Center
 
 Updates
 ======
